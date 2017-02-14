@@ -1,4 +1,4 @@
-
+ [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/remilehe/thw_keras_introduction) 
 
 # Overview
 
