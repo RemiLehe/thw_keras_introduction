@@ -4,5 +4,6 @@ dependencies:
   - python
   - jupyter
   - keras
+  - tensorflow
   - pandas
   - matplotlib
